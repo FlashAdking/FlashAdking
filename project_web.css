@@ -1,0 +1,86 @@
+body{
+    background-color: aliceblue;
+}
+
+@media (min-width: 0px) and (max-width: 418px){
+
+}
+
+@media (min-width: 419px){
+    .head{
+        color: goldenrod;
+        margin-left: 20px;
+        font-style: italic;
+
+    }
+    .word{
+        display: block;
+        width: 600px;
+    
+
+        font-size: 4rem;
+        margin: 20px 20px;
+        font-weight: bold;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+
+    }
+    
+  .first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 20px;
+  }
+  
+
+    .sec{
+        display: inline-block;
+        height: 250px;
+        width: 500px;
+        margin: 20px 20px;
+        align-items: center;
+        img{
+            float: left;
+            margin: 10px;
+        }
+    }
+    
+    .third{
+        display: inline-block;
+        height: 250px;
+        width: 500px;
+        img{
+            float: left;
+            margin: 10px;
+        }
+    }
+
+      
+
+    #para{
+        font-weight: bold;
+    }
+
+    #hey{
+        font-size: 20px;
+        font-family: fantasy;
+    }
+
+    
+    
+    footer{
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        padding: 10px 20px;
+
+        text-align: right;
+        margin-right: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bold;
+        clear: both;
+    }
+
+    
+
+}
