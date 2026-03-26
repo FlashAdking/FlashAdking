@@ -11,9 +11,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" alt="linkedin" />
   </a>
   <img width="12" />
-  <a href="https://twitter.com/Aditya17134935" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://twitter.com/Aditya17134935" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="25" alt="twitter" />
-  </a>
+  </a> -->
   <img width="12" />
   <a href="mailto:aditya.tiwade8080@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" alt="gmail" />
