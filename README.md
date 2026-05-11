@@ -1,26 +1,25 @@
-<!-- Top banner GIF -->
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdoMTlpbjNmeGExYWhzM2c5aWlxYW02cHJqcjFpdDMwMHVlY3d1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t2UyODDiTuENGVtd78/giphy.gif" alt="banner" />
 </div>
 
 ###
 
-<!-- Social icons with links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/aditya-tiwade" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" alt="linkedin" />
   </a>
   <!-- <img width="12" /> -->
-  <!-- <a href="https://twitter.com/Aditya17134935" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="25" alt="twitter" />
-  </a> -->
   <img width="12" />
   <a href="mailto:aditya.tiwade8080@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" alt="gmail" />
   </a>
   <img width="12" />
   <a href="https://leetcode.com/Flash_Adking/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="25" alt="leetcode" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/leetcode/white">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/leetcode/black">
+      <img src="https://cdn.simpleicons.org/leetcode/black" width="25" alt="leetcode" />
+    </picture>
   </a>
 </div>
 
@@ -33,7 +32,6 @@
 ###
 
 <h1 align="center"></h1>
-<!-- Snake animation (auto light/dark) -->
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -93,8 +91,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlashAdking&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=FlashAdking&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> -->
-
-###
+  <img src="https://github-readme-stats.vercel.app/api?username=FlashAdking&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=FlashAdking&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
